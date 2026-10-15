@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T07:30:00+03:00",
+ "updated": "2026-10-15T12:00:00+03:00",
  "items": [
   {
    "cat": "auto",
@@ -218,6 +218,32 @@
    "url": "https://electrek.co/2026/10/13/tesla-china-sales-down-exports-double-export-rebate-cut/",
    "title": "Kiina: Teslan kotimaan myynti laski 12 %, vienti Shanghaista yli kaksinkertaistui",
    "summary": "CPCA:n lukujen mukaan Tesla myi tammi–syyskuussa Kiinassa 381 088 autoa (−11,9 %), kun Shanghain vienti nousi 361 972 autoon (+108 %). Kiina laskee sähköautojen vientiveron palautusta 13 %:sta 9 %:iin 1.4.2027."
+  },
+  {
+   "cat": "yritys",
+   "date": "2026-10-15T01:50",
+   "source": "Bloomberg (The Business Times)",
+   "url": "https://www.businesstimes.com.sg/companies-markets/tesla-spacex-deal-news-possible-2026-barclays-analyst-says",
+   "title": "Barclays: Teslan ja SpaceX:n fuusio voidaan julkistaa ennen joulukuun yhtiökokousta",
+   "summary": "Barclaysin analyytikot Dan Levyn johdolla arvioivat, että fuusio voitaisiin julkistaa ennen Teslan yhtiökokousta, joka pidetään viimeistään 6.12. Suurin este olisi molempien yhtiöiden osakkeenomistajien hyväksyntä. Kyse on analyytikoiden arviosta; yhtiöt eivät ole kertoneet fuusiosta.",
+   "flag": "Vahvistamaton"
+  },
+  {
+   "cat": "yritys",
+   "date": "2026-10-14T15:30",
+   "source": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-will-reportedly-receive-its-first-euv-tool-from-asml-in-mid-2027-cutting-edge-scanner-could-sit-idle-for-some-time-as-experimental-facility-is-completed",
+   "title": "Terafab saa tietojen mukaan ensimmäisen ASML:n EUV-laitteen vuoden 2027 puolivälissä",
+   "summary": "Lähteisiin vedoten kerrotaan, että Teslan ja SpaceX:n Terafab-sirutehdas saa ensimmäisen EUV-litografialaitteensa ensi vuoden puolivälissä. SemiAnalysisin arvion mukaan Giga Texasin kehitystehtaan runko valmistuu vasta loppuvuonna 2027, joten laite voi seistä käyttämättömänä kuukausia.",
+   "flag": "Vahvistamaton"
+  },
+  {
+   "cat": "yritys",
+   "date": "2026-10-13T16:00",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/",
+   "title": "Teslan osuus USA:n pikalatauspisteistä putosi alle 50 prosentin",
+   "summary": "Paren-datan mukaan Tesla rakensi yhä eniten uusia pikalatauspisteitä Q3:lla (1 287), mutta sen osuus kaikista USA:n pikalatauspisteistä laski vuodessa 54,3 prosentista 49,3 prosenttiin. Superchargerin hinta ei-jäsenille nousi vuodessa 15 % 56,9 senttiin/kWh."
   }
  ]
 }
