@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T12:49:00+03:00",
+ "updated": "2026-10-15T13:25:00+03:00",
  "items": [
   {
    "cat": "auto",
@@ -284,6 +284,14 @@
    "url": "https://insideevs.com/news/812012/new-tesla-roadster-reveal-event-livestream/",
    "title": "Roadster-esitys tänään: livelähetys klo 3.55 Suomen aikaa",
    "summary": "InsideEVs:n mukaan toisen sukupolven Roadsterin uusi esittely streamataan torstaina 15.10. klo 19.55 Keskiaikaa (perjantaina 16.10. klo 3.55 Suomen aikaa). Vuoden 2017 lupaukset (620 mailia, 0–60 mph ~1 s) ovat yhä todistamatta; tuotantoaikataulu on auki."
+  },
+  {
+   "cat": "yritys",
+   "date": "2026-10-12T12:00",
+   "source": "Cox Automotive (Kelley Blue Book)",
+   "url": "https://www.coxautoinc.com/insights/q3-2026-ev-sales-report-commentary/",
+   "title": "Cox: Tesla myi Q3:lla yli puolet USA:n sähköautoista",
+   "summary": "Kelley Blue Bookin arvion mukaan Tesla myi Yhdysvalloissa heinä–syyskuussa 144 094 sähköautoa, eli 54 % kaikista. Teslan myynti laski vuodessa 19,7 %. Model Y (99 037) ja Model 3 (40 346) olivat maan myydyimmät sähköautot."
   }
  ]
 }
