@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T13:25:00+03:00",
+ "updated": "2026-10-15T15:35:00+03:00",
  "items": [
   {
    "cat": "auto",
@@ -292,6 +292,14 @@
    "url": "https://www.coxautoinc.com/insights/q3-2026-ev-sales-report-commentary/",
    "title": "Cox: Tesla myi Q3:lla yli puolet USA:n sähköautoista",
    "summary": "Kelley Blue Bookin arvion mukaan Tesla myi Yhdysvalloissa heinä–syyskuussa 144 094 sähköautoa, eli 54 % kaikista. Teslan myynti laski vuodessa 19,7 %. Model Y (99 037) ja Model 3 (40 346) olivat maan myydyimmät sähköautot."
+  },
+  {
+   "cat": "auto",
+   "date": "2026-10-15T05:32",
+   "source": "Texasin liikennevirasto TxDMV (rekisteri)",
+   "url": "https://txmccs.txdmv.gov/truckstop/companies/81edcff1-8a6e-4ed0-be1f-60668515e223/automated-motor-vehicles",
+   "title": "Texasin rekisteri: Teslalla nyt 349 Cybercabia ja 769 robotaksia",
+   "summary": "Texasin liikenneviraston automaattiajoneuvorekisteriin lisättiin Tesla Robotaxi -yhtiölle 30 uutta Cybercabia, joten niitä on nyt 349. Model Y -robotakseja on edelleen 420, eli koko Texasin robotaksilaivasto on 769 autoa. Rekisteröinti ei kerro, kuinka moni auto on jo maksullisessa ajossa."
   }
  ]
 }
