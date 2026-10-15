@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T12:00:00+03:00",
+ "updated": "2026-10-15T12:22:00+03:00",
  "items": [
   {
    "cat": "auto",
@@ -244,6 +244,30 @@
    "url": "https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/",
    "title": "Teslan osuus USA:n pikalatauspisteistä putosi alle 50 prosentin",
    "summary": "Paren-datan mukaan Tesla rakensi yhä eniten uusia pikalatauspisteitä Q3:lla (1 287), mutta sen osuus kaikista USA:n pikalatauspisteistä laski vuodessa 54,3 prosentista 49,3 prosenttiin. Superchargerin hinta ei-jäsenille nousi vuodessa 15 % 56,9 senttiin/kWh."
+  },
+  {
+   "cat": "yritys",
+   "date": "2026-10-13T17:07",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/10/13/tesla-model-3-canada-orders-paused-china-import-quota/",
+   "title": "Kanada: Model 3 Premium -tilaukset tauolla Kiina-tuontikiintiön vuoksi",
+   "summary": "Tesla on poistanut Shanghaissa valmistetun Model 3 Premiumin tilattavista Kanadassa ja ilmoittaa, ettei tilauksia avata uudelleen ennen maaliskuuta 2027. Teslan mukaan yhtiön tuontikiintiö on täynnä; Kanadan virallisessa seurannassa noin 67 % vuoden 49 000 luvan kiintiöstä on kuitenkin vielä käyttämättä."
+  },
+  {
+   "cat": "tuote",
+   "date": "2026-10-06T19:57",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/10/06/tesla-powershare-home-backup-model-3-model-y-powerwall-3/",
+   "title": "Powershare Home Backup laajenee Model 3:een ja Model Y:hyn Yhdysvalloissa",
+   "summary": "Tesla on avannut kodin varavirran Model 3- ja Model Y -autoille Powerwall 3:n kanssa; aiemmin ominaisuus oli vain Cybertruckissa. Tesla takaa tuen tilauksille 1.10.2026 alkaen Yhdysvalloissa ja Puerto Ricossa; vanhemmilla autoilla tuki riippuu laitteistosta. Verkkoon myynti (Grid Support) ei ole käytössä näissä malleissa."
+  },
+  {
+   "cat": "tuote",
+   "date": "2026-10-09T16:13",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/10/09/tesla-semi-megacharger-atlanta-savannah-pilot-georgia/",
+   "title": "Tesla avasi Semi-Megachargerit Atlanta–Savannah-reitille, ensimmäinen Pilot-asema mukana",
+   "summary": "Georgiassa avattiin Conleyn 8-paikkainen ja Ellabellin 6-paikkainen Megacharger-asema, teho jopa 1,2 MW per paikka. Ellabell on Teslan ja Pilot Travel Centersin yhteistyön ensimmäinen kuorma-autoasema; Tesla Semi -tili ilmoitti avauksista 8.10."
   }
  ]
 }
