@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-15T15:58:00+03:00",
+ "updated": "2026-10-15T17:22:35+03:00",
  "items": [
+  {
+   "cat": "auto",
+   "date": "2026-10-15T17:03",
+   "source": "Electrek",
+   "url": "https://electrek.co/2026/10/15/tesla-driver-assist-median-crossing-vineland/",
+   "title": "Tesla vahvisti NHTSA:lle: Autopilot/FSD oli päällä New Jerseyn kuolonkolarissa",
+   "summary": "Elokuussa 2026 New Jerseyn Route 55:llä 2021 Model Y ylitti keskikaistan, osui puuhun ja törmäsi vastaantulijaan; 68-vuotias Phillip Eastman kuoli. Poliisi puhui kuljettajan hallinnan menetyksestä, mutta Teslan NHTSA-ilmoituksessa ajoavustin oli \"Verified Engaged\". Ohjelmistoversio ja tapahtumakuvaus on mustattu; järjestelmän syyllisyyttä ei ole todistettu."
+  },
   {
    "cat": "auto",
    "date": "2026-10-15T15:43",
