@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-15T17:22:35+03:00",
+ "updated": "2026-10-15T18:24:56+03:00",
  "items": [
+  {
+   "cat": "yritys",
+   "date": "2026-10-13T15:00",
+   "source": "Teslarati",
+   "url": "https://www.teslarati.com/tesla-taiwan-megapack-ai-data-center/",
+   "title": "Taiwanilainen Apollo Power tilasi 260 Megapackia – noin 1 GWh tekoälydatakeskuksille",
+   "summary": "Apollo Power allekirjoitti 8.10. Teslan Taiwanin energia-yksikön kanssa sopimuksen 260 Megapack 2XL -yksiköstä (noin 1 GWh). Toimitukset erissä loppuvuodesta 2027, kohteet käyttöön 2028. Hintaa ei kerrottu; yhtiö rahoittaa ostoksen osakeannilla ja lainalla. Suuri osa tilauksesta on ennakkovarausta, ei vielä vahvistettuja asiakasprojekteja."
+  },
+  {
+   "cat": "yritys",
+   "date": "2026-10-15T17:30",
+   "source": "electrive",
+   "url": "https://www.electrive.com/2026/10/15/tesla-expands-supercharger-network-along-south-korean-highways/",
+   "title": "Tesla laajentaa Superchargereita Etelä-Korean moottoriteille – 21 uutta levähdyspaikkaa",
+   "summary": "Tesla sai osan Korea Expressway Corporationin vuoden 2026 latausohjelmasta ja rakentaa Superchargereita 21 moottoritien levähdysalueelle (mm. Soul, Yongin, Gangneung, Gyeongju, Andong). Osa on jo rakenteilla; avauspäiviä ei ole ilmoitettu. Koreassa on nyt noin 180 Supercharger-pistettä ja yli 1 200 latauspaikkaa."
+  },
   {
    "cat": "auto",
    "date": "2026-10-15T17:03",
