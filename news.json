@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T12:22:00+03:00",
+ "updated": "2026-10-15T12:49:00+03:00",
  "items": [
   {
    "cat": "auto",
@@ -268,6 +268,22 @@
    "url": "https://electrek.co/2026/10/09/tesla-semi-megacharger-atlanta-savannah-pilot-georgia/",
    "title": "Tesla avasi Semi-Megachargerit Atlanta–Savannah-reitille, ensimmäinen Pilot-asema mukana",
    "summary": "Georgiassa avattiin Conleyn 8-paikkainen ja Ellabellin 6-paikkainen Megacharger-asema, teho jopa 1,2 MW per paikka. Ellabell on Teslan ja Pilot Travel Centersin yhteistyön ensimmäinen kuorma-autoasema; Tesla Semi -tili ilmoitti avauksista 8.10."
+  },
+  {
+   "cat": "yritys",
+   "date": "2026-10-14T22:00",
+   "source": "Teslarati",
+   "url": "https://www.teslarati.com/tesla-q3-earnings-say-questions/",
+   "title": "Tesla avasi Q3-tuloskutsun kysymysportaalin – Cybercab ja NHTSA esillä",
+   "summary": "Osakkeenomistajat voivat jättää ja äänestää kysymyksiä 20.10. klo 23 Suomen aikaa asti. Tulos julkaistaan 21.10. pörssin sulkeuduttua; webcast klo 0.30 Suomen aikaa 22.10. Teslarati muistuttaa, että NHTSA vaatii Cybercabin FMVSS-sertifioinnista vastaukset 30.10. mennessä."
+  },
+  {
+   "cat": "tuote",
+   "date": "2026-10-15T09:45",
+   "source": "InsideEVs",
+   "url": "https://insideevs.com/news/812012/new-tesla-roadster-reveal-event-livestream/",
+   "title": "Roadster-esitys tänään: livelähetys klo 3.55 Suomen aikaa",
+   "summary": "InsideEVs:n mukaan toisen sukupolven Roadsterin uusi esittely streamataan torstaina 15.10. klo 19.55 Keskiaikaa (perjantaina 16.10. klo 3.55 Suomen aikaa). Vuoden 2017 lupaukset (620 mailia, 0–60 mph ~1 s) ovat yhä todistamatta; tuotantoaikataulu on auki."
   }
  ]
 }
